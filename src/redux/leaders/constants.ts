@@ -1,0 +1,8 @@
+export const MODULE_NAME = 'leaders';
+
+export const PUT_LEADERS = `${MODULE_NAME}/PUT_LEADERS`;
+export const PUT_RANKING = `${MODULE_NAME}/PUT_RANKING`;
+export const GET_LEADERS = `${MODULE_NAME}/GET_LEADERS`;
+export const SET_PENDING = `${MODULE_NAME}/SET_PENDING`;
+export const PUT_ERRORS  = `${MODULE_NAME}/PUT_ERRORS`;
+export const PUT_CURRENT_USER = `${MODULE_NAME}/PUT_CURRENT_USER`;
