@@ -38,7 +38,7 @@
     "react": "^16.10.2",
     "react-app-polyfill": "^1.0.4",
     "react-countup": "^4.3.3",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.10.2",
     "react-easy-swipe": "0.0.18",
     "react-facebook-pixel": "^0.1.3",
